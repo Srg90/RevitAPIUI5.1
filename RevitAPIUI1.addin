@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining1\RevitAPIUI1.dll"</Assembly>
+		<AddInId>E507C58E-8666-46A8-9A7A-4BB075B53C97</AddInId>
+		<FullClassName>RevitAPIUI1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Задание 5.1 (трубы, стены, двери)</Text>
+	</AddIn>
+</RevitAddIns>
